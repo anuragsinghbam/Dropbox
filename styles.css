@@ -104,6 +104,10 @@ nav li {
     zoom: 60%;
   }
 
+  nav li {
+      font-weight: 500;
+  }
+
   .folders {
     margin-left: 64px;
   }
